@@ -2,7 +2,7 @@
 
 Currently working as a **Full-stack Developer**, I love to create responsive and visually stunning interfaces as well as getting lost in the logic of a well crafted backend.
 
-Software is more than just a job for me, in my free time I love to play and build games! 🎮 I have been working on an MMO game project for over 2 years now.
+Software is more than just a job for me, in my free time I love to play and build games! 🎮 I have been working on an MMO game project for over 3 years now.
 
 ---
 
